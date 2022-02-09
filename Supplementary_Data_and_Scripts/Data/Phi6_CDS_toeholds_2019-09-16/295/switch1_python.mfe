@@ -1,0 +1,46 @@
+% NUPACK 3.2.2
+% Program: mfe
+% Start time: Tue Sep 17 14:41:01 2019
+% Command: mfe -material rna1995 -T 37 -multi /media/axelle/Angel_backup/Dropbox/Hiver2019/iGEM/Viral_toeholds/Phi6_CDS_toeholds_2019-09-16/295/switch1_python 
+% Sequence:  GGGUCAUCAGAUUUUGAGAUCUGACGGAUCUCCAUACAGAAACAGAGGAGAUAUGGAAUGCCGUCAGAUCACCUGGCGGCAGCGCAAAAGAUGCGUAAA
+% v(pi): 1
+% Parameters: RNA, 1995
+% Dangles setting: 1
+% Temperature (C): 37.0
+% Sodium concentration: 1.0000 M
+% Magnesium concentration: 0.0000 M
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+99
+-33.300
+......(((((((....)))))))((.((((((.............)))))).))...(((((((((.....))))))))).((((.....))))....
+7	24
+8	23
+9	22
+10	21
+11	20
+12	19
+13	18
+25	55
+26	54
+28	52
+29	51
+30	50
+31	49
+32	48
+33	47
+59	81
+60	80
+61	79
+62	78
+63	77
+64	76
+65	75
+66	74
+67	73
+83	95
+84	94
+85	93
+86	92
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+

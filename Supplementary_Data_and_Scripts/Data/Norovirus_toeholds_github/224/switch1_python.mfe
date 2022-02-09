@@ -1,0 +1,49 @@
+% NUPACK 3.2.2
+% Program: mfe
+% Start time: Fri Oct 18 02:44:00 2019
+% Command: mfe -material rna1995 -T 37 -multi /media/axelle/Angel_backup/iGEM/Toeholds_viruses_Nathan/Norovirus_toeholds_github/224/switch1_python 
+% Sequence:  GGGUCCACCAGUGUUUCUUUGACUGAGGGUGCCAUACAGAAACAGAGGAGAUAUGGCAUGCUCAGUCAAAACCUGGCGGCAGCGCAAAAGAUGCGUAAA
+% v(pi): 1
+% Parameters: RNA, 1995
+% Dangles setting: 1
+% Temperature (C): 37.0
+% Sodium concentration: 1.0000 M
+% Magnesium concentration: 0.0000 M
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+99
+-34.200
+..(.((.((((.((((...((((((((.((((((((...............)))))))).)))))))))))))))).)))..((((.....))))....
+3	80
+5	79
+6	78
+8	76
+9	75
+10	74
+11	73
+13	72
+14	71
+15	70
+16	69
+20	68
+21	67
+22	66
+23	65
+24	64
+25	63
+26	62
+27	61
+29	59
+30	58
+31	57
+32	56
+33	55
+34	54
+35	53
+36	52
+83	95
+84	94
+85	93
+86	92
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+

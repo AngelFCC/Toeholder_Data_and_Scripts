@@ -1,0 +1,45 @@
+% NUPACK 3.2.2
+% Program: mfe
+% Start time: Wed Oct 16 13:12:30 2019
+% Command: mfe -material rna1995 -T 37 -multi /media/axelle/Angel_backup/iGEM/Toeholds_viruses_Nathan/Herpesvirus_toeholds_2_github/71/switch1_python 
+% Sequence:  GGGAACGGAGGGGUCGUACCUCUGCCCGUUUCCAUACAGAAACAGAGGAGAUAUGGAAUGGGGCAGAGGUACCUGGCGGCAGCGCAAAAGAUGCGUAAA
+% v(pi): 1
+% Parameters: RNA, 1995
+% Dangles setting: 1
+% Temperature (C): 37.0
+% Sodium concentration: 1.0000 M
+% Magnesium concentration: 0.0000 M
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+99
+-35.900
+(....)......(((((((((((((((..(((((((...............)))))))..))))))))))))..))).....((((.....))))....
+1	6
+13	77
+14	76
+15	75
+16	72
+17	71
+18	70
+19	69
+20	68
+21	67
+22	66
+23	65
+24	64
+25	63
+26	62
+27	61
+30	58
+31	57
+32	56
+33	55
+34	54
+35	53
+36	52
+83	95
+84	94
+85	93
+86	92
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+
